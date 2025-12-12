@@ -1,0 +1,11 @@
+{
+  "name": "ResizableTiptap",
+  "displayName": "Resizable Tiptap Editor",
+  "version": "1.0.0",
+  "type": "element",
+  "description": "A Tiptap editor with resizable images",
+  "tags": ["editor", "tiptap", "image", "resize"],
+  "editor": {
+    "category": "Custom"
+  }
+}
